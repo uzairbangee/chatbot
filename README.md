@@ -5,3 +5,5 @@ This is basically a chatbot which will tell you about the current weather situat
 So just get the code and deploy it where ever you want.
 
 I have used Facebook Developer Messenger API and Google Action API to create it.
+
+Create a .env file and add access token and other credentials over there.
